@@ -1,0 +1,3 @@
+include korspacing/resources/*
+include korspacing/utils.py
+include korspacing/korspacing.py
